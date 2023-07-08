@@ -1,0 +1,19 @@
+label,h1{
+    display: block;
+    margin-top: 10px;
+    margin:5px auto;
+    text-align: center;
+}
+div{
+    background-color: antiquewhite;
+    margin: auto;
+}
+.item{
+    margin: auto;
+    width: 50%;
+    background-color: aquamarine;
+
+}
+button{
+    text-align: right;
+}
